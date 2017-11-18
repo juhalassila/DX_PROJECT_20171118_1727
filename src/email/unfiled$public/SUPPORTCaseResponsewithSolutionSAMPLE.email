@@ -1,0 +1,1 @@
+Hyvä {!Contact.FirstName}     {!Case.Solution_Description}     Kiitos,    {!User.Name}  {!Organization.Name}     Oma huomautus:    {!Case.Description}   {!Case.Solution_Attachments}

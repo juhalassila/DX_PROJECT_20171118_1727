@@ -1,0 +1,1 @@
+Hyvä {!Case.SuppliedName}     Kiitos kysymyksestäsi. Tapaus {!Case.CaseNumber}: {!Case.Subject} on luotu ja organisaation {!Organization.Name} asiakasvastaava ottaa sinuun pian yhteyttä.     Kiitos,    Asiakassuhteiden tiimi, {!Organization.Name}

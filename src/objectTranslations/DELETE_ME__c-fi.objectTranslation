@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>false</plural>
+        <possessive>None</possessive>
+        <value>DELETE ME</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>true</plural>
+        <possessive>None</possessive>
+        <value>DELETE MANY</value>
+    </caseValues>
+    <fields>
+        <label><!-- DELETE ME AGAIN --></label>
+        <name>DELETE_ME_AGAIN__c</name>
+    </fields>
+    <fields>
+        <help><!-- asfasfasfasf --></help>
+        <label><!-- DELETE ME ONCE MORE --></label>
+        <name>DELETE_ME_ONCE_MORE__c</name>
+    </fields>
+</CustomObjectTranslation>

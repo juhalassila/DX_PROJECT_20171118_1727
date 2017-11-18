@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Automaattinen vastaus, kun liidi lähetetään verkkoon.</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Liidit:  Webistä liidiksi -toiminnon automaattinen vastaus (ESIMERKKI)</name>
+    <style>none</style>
+    <subject>{!Organization.Name}:  Kiitos kysymyksestäsi</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

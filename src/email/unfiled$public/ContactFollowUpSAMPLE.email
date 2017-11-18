@@ -1,0 +1,1 @@
+Hyvä {!Contact.FirstName}    Oli mukava keskustella kanssasi tänään. Uskon, että {!Organization.Name}n ja {!Account.Name}n yhteistyö tulee olemaan hedelmällistä, ja odotan seuraavaa tapaamistamme.    Terveisin  {!User.FirstName}

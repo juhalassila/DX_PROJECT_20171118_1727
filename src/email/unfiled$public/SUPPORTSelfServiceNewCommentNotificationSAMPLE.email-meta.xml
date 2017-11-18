@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Mallisähköposti, joka voidaan lähettää itsepalveluasiakkaille, kun heidän tapaukseensa on lisätty julkinen huomautus.</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>TUKI: Ilmoitus itsepalveluasiakkaan uudesta huomautuksesta (ESIMERKKI)</name>
+    <style>none</style>
+    <subject>Tapaus {!Case.CaseNumber} on päivitetty</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

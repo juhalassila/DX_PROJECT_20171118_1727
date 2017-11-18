@@ -1,0 +1,1 @@
+*** ILMOITUS UUDEN TAPAUKSEN KOHDISTAMISESTA ***    Seuraava tapaus on kohdistettu sinulle.   Yritys:  {!Account.Name}  Yhteyshenkilön nimi:  {!Contact.Name}  Tapaus:  {!Case.CaseNumber}  Aihe:  {!Case.Subject}  Kuvaus: {!Case.Description}    Siirry tapaukseen napsauttamalla linkkiä:  {!Case.Link}

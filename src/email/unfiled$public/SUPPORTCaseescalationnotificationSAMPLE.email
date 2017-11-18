@@ -1,0 +1,1 @@
+*** TAPAUKSEN ESKALOINTIHÄLYTYS ***    The Seuraava tapaus on eskaloitu:   Yritys:  {!Account.Name}  Tapaus:  {!Case.CaseNumber}:  {!Case.Subject}  Omistaja:  {!CaseOwner.FullName}    Siirry tapaukseen napsauttamalla linkkiä:  {!Case.Link}

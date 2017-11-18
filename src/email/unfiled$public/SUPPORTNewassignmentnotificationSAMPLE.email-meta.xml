@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Sisäinen ilmoitus tapauksen omistajalle, kun tapaus kohdistetaan.</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>TUKI:  Ilmoitus uudesta kohdistuksesta (ESIMERKKI)</name>
+    <style>none</style>
+    <subject>Tapaus {!Case.CaseNumber}: {!Case.Subject} on kohdistettu sinulle.</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>
